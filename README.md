@@ -56,4 +56,3 @@ for i in range(1,4):
 index, distance=find_min_distance(map)
 print("第%s个人最近 他的数值是%s" %(index,distance))
 ~~~
-
